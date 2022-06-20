@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
+
+:root {
+  // Primary colors
+  --color-soft-blue: hsl(215, 51%, 70%);
+  --color-cyan: #00fff7;
+
+  // Neutral colors
+  --color-very-dark-blue-1: hsl(217, 54%, 11%);
+  --color-very-dark-blue-2: hsl(216, 50%, 16%);
+  --color-very-dark-blue-3: hsl(215, 32%, 27%);
+  --color-white: hsl(0, 0%, 100%);
+
+  // Typography
+  --font-family-main: "Outfit", sans-serif;
+  --font-size-paragraph: 1.125rem;
+  --font-size-heading: 1.5rem;
+}

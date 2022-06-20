@@ -1,0 +1,30 @@
+@import "variables";
+@import "card";
+
+body {
+  font-family: var(--font-family-main);
+}
+
+h1 {
+  font-size: var(--font-size-heading);
+  font-weight: 700;
+  color: var(--color-white);
+}
+
+p {
+  font-size: var(--font-size-paragraph);
+  font-weight: 400;
+  color: var(--color-soft-blue);
+}
+
+.nft-card {
+  background-color: var(--color-very-dark-blue-1);
+  height: 100vh;
+}
+
+.container {
+  max-width: 100rem;
+  margin: 0 auto;
+  display: grid;
+  place-content: center;
+}
