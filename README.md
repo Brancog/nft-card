@@ -54,4 +54,4 @@ Further improving knowledge on HTML and CSS.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Brancog](https://www.frontendmentor.io/profile/Brancog)
